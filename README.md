@@ -19,7 +19,7 @@ An AI agent that runs mock interviews by calling typed tools through an MCP serv
 
 <img src="https://www.google.com/s2/favicons?domain=texassports.com&sz=64" height="16" alt="UT Austin" /> &nbsp;**[AI Health Lab, UT Austin](https://aihealth.ischool.utexas.edu/)** · CARE-RAG, accepted at GenAI for Health, NeurIPS 2025<br>
 <img src="https://www.google.com/s2/favicons?domain=umich.edu&sz=64" height="16" alt="University of Michigan" /> &nbsp;**[Au Lab, University of Michigan](https://theaulab.github.io/)** · Deep learning research: a PyTorch BiLSTM over Evo2 genomic embeddings for transposable element annotation<br>
-**YesTech Corp** · SWE intern · Fall 2024
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/72x72/1faf6.png" height="16" alt="" /> &nbsp;**YesTech Corp** · SWE intern · Fall 2024 · invite and onboarding flow for a close friend check in app
 
 ### Off the keyboard
 
