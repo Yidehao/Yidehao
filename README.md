@@ -20,7 +20,9 @@ An AI agent that runs mock interviews by calling typed tools through an MCP serv
 ### Say hi
 
 <a href="https://www.linkedin.com/in/yide-hao/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:yidehao@umich.edu"><img src="https://skillicons.dev/icons?i=gmail" height="28" alt="Email" /></a>
+<a href="mailto:yh27357@eid.utexas.edu"><img src="https://skillicons.dev/icons?i=gmail" height="28" alt="Email" /></a>
+
+yh27357@eid.utexas.edu
 
 ### Tools
 
